@@ -1,6 +1,6 @@
 # Hackathon App
 
-## Описание
+## Это супер пупер игра для пупсиков
 
 Это веб-приложение для отображения команд и профилей участников, а также их рейтингов. 
 
@@ -8,4 +8,4 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш_пользователь/hackathon-app.git
+ https://github.com/superpuper999/hackathon-app.git
