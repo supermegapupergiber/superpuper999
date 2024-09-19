@@ -1,2 +1,11 @@
-# superpuper999
-HEMY_DATABASE_URI'] = 'sqlite:///hackathon.db'
+# Hackathon App
+
+## Описание
+
+Это веб-приложение для отображения команд и профилей участников, а также их рейтингов. 
+
+## Установка
+
+1. Клонируйте репозиторий:
+   ```bash
+   git clone https://github.com/ваш_пользователь/hackathon-app.git
